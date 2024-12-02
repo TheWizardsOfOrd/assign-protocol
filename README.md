@@ -24,7 +24,7 @@ These inscriptions must:
 |----------------|----------------------|----------------------|
 | **Initialized**| *Anchor Wallet*      | *Anchor Wallet*      |
 | **Active**     | *Anchor Wallet*      | *Delegate Wallet*    |
-| **Terminated** | Moved/Burned         | Any/Burned           |
+| **Terminated** | Moved/Burned         |     Burned           |
 
 **Initialized**
 - Ready for delegation but inactive
