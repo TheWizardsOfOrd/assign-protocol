@@ -13,7 +13,7 @@ The protocol requires two linked inscriptions:
 
 These inscriptions must:
 - Be created in the same batch transaction
-- Set **assign** as their `metaprotocol`
+- Set **ASSIGN** as their `metaprotocol`
 - Have IDs `<reveal txid>i0` for *Anchor Inscription* and `<reveal txid>i1` for *Delegate Inscription*
 - Be initially inscribed to *Anchor Wallet*
 - For simplicity, only *Anchor Wallet* can appear as non `op_return` output in reveal transaction that creates the inscription pair
