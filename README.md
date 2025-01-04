@@ -22,6 +22,9 @@ These inscriptions must:
 - Be initially inscribed to *Anchor Wallet*
 - For simplicity, only *Anchor Wallet* can appear as non `op_return` output in reveal transaction that creates the inscription pair
 
+These inscriptions may:
+- Include optional contextual information in on-chain metadata
+
 ## States
 
 | State          | *Anchor Inscription*  | *Delegate Inscription* |
