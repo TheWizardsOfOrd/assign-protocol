@@ -51,7 +51,7 @@ These inscriptions must:
 
 ## API
 
-This is the reference API implementation by https://github.com/TheWizardsOfOrd/ord/pull/3.
+This is the reference API implementation as an ord node PR https://github.com/TheWizardsOfOrd/ord/pull/3.
 
 ### Retrieve Delegations
 
